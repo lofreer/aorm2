@@ -1,6 +1,6 @@
 {
   "name": "aorm2",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "aorm2",
   "main": "lib/index.js",
   "files": [
