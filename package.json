@@ -1,6 +1,6 @@
 {
   "name": "aorm2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "aorm2",
   "main": "lib/index.js",
   "files": [
@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "co-wrap-all": "^1.0.0",
-    "debug": "^2.2.0",
-    "mysql": "^2.13.0",
-    "pify": "^2.3.0"
+    "debug": "^4.3.1",
+    "mysql": "^2.18.1",
+    "pify": "^5.0.0"
   },
   "homepage": "https://github.com/lofreer/aorm2",
   "repository": {
